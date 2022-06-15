@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "argon2"]
+	path = argon2
+	url = https://github.com/wrathematics/argon2
+	shallow = true
+	registered = true
+[submodule "coop"]
+	path = coop
+	url = https://github.com/wrathematics/coop
+	shallow = true
+	registered = true
+[submodule "dequer"]
+	path = dequer
+	url = https://github.com/wrathematics/dequer
+	shallow = true
+	registered = true
+[submodule "float"]
+	path = float
+	url = https://github.com/wrathematics/float
+	shallow = true
+	registered = true
+[submodule "getPass"]
+	path = getPass
+	url = https://github.com/wrathematics/getpass
+	shallow = true
+	registered = true
+[submodule "meanr"]
+	path = meanr
+	url = https://github.com/wrathematics/meanr
+	shallow = true
+	registered = true
+[submodule "ngram"]
+	path = ngram
+	url = https://github.com/wrathematics/ngram
+	shallow = true
+	registered = true

@@ -1,0 +1,30 @@
+[
+  {
+    "package": "argon2",
+    "oncran": true
+  },
+  {
+    "package": "coop",
+    "oncran": true
+  },
+  {
+    "package": "dequer",
+    "oncran": true
+  },
+  {
+    "package": "float",
+    "oncran": true
+  },
+  {
+    "package": "getPass",
+    "oncran": true
+  },
+  {
+    "package": "meanr",
+    "oncran": true
+  },
+  {
+    "package": "ngram",
+    "oncran": true
+  }
+]
