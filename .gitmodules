@@ -28,6 +28,11 @@
 	url = https://github.com/wrathematics/getpass
 	shallow = true
 	registered = true
+[submodule "meanr"]
+	path = meanr
+	url = https://github.com/wrathematics/meanr
+	shallow = true
+	registered = true
 [submodule "ngram"]
 	path = ngram
 	url = https://github.com/wrathematics/ngram

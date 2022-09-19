@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "meanr",
+    "oncran": true
+  },
+  {
     "package": "ngram",
     "oncran": true
   }
