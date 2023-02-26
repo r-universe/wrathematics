@@ -1,9 +1,5 @@
 [
   {
-    "package": "argon2",
-    "oncran": true
-  },
-  {
     "package": "coop",
     "oncran": true
   },
@@ -26,5 +22,8 @@
   {
     "package": "ngram",
     "oncran": true
+  },
+  {
+    "package": "argon2"
   }
 ]
