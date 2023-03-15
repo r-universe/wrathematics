@@ -15,6 +15,10 @@
     "oncran": true
   },
   {
+    "package": "getip",
+    "oncran": true
+  },
+  {
     "package": "getPass",
     "oncran": true
   },

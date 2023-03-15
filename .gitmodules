@@ -23,6 +23,11 @@
 	url = https://github.com/wrathematics/float
 	shallow = true
 	registered = true
+[submodule "getip"]
+	path = getip
+	url = https://github.com/wrathematics/getip
+	shallow = true
+	registered = true
 [submodule "getPass"]
 	path = getPass
 	url = https://github.com/wrathematics/getpass
