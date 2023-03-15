@@ -1,9 +1,5 @@
 [
   {
-    "package": "coop",
-    "oncran": true
-  },
-  {
     "package": "dequer",
     "oncran": true
   },
@@ -16,14 +12,18 @@
     "oncran": true
   },
   {
+    "package": "coop",
+    "oncran": true
+  },
+  {
+    "package": "argon2"
+  },
+  {
     "package": "meanr",
     "oncran": true
   },
   {
     "package": "ngram",
     "oncran": true
-  },
-  {
-    "package": "argon2"
   }
 ]
