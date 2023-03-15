@@ -1,5 +1,12 @@
 [
   {
+    "package": "argon2"
+  },
+  {
+    "package": "coop",
+    "oncran": true
+  },
+  {
     "package": "dequer",
     "oncran": true
   },
@@ -10,13 +17,6 @@
   {
     "package": "getPass",
     "oncran": true
-  },
-  {
-    "package": "coop",
-    "oncran": true
-  },
-  {
-    "package": "argon2"
   },
   {
     "package": "meanr",
