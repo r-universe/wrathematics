@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "coop"]
 	path = coop
 	url = https://github.com/wrathematics/coop
-	shallow = true
-	registered = true
 [submodule "dequer"]
 	path = dequer
 	url = https://github.com/wrathematics/dequer
-	shallow = true
-	registered = true
 [submodule "float"]
 	path = float
 	url = https://github.com/wrathematics/float
-	shallow = true
-	registered = true
 [submodule "getip"]
 	path = getip
 	url = https://github.com/wrathematics/getip
-	shallow = true
-	registered = true
 [submodule "getPass"]
 	path = getPass
 	url = https://github.com/wrathematics/getpass
-	shallow = true
-	registered = true
 [submodule "kazaam"]
 	path = kazaam
 	url = https://github.com/cran/kazaam
-	shallow = true
-	registered = true
 [submodule "meanr"]
 	path = meanr
 	url = https://github.com/wrathematics/meanr
-	shallow = true
-	registered = true
 [submodule "ngram"]
 	path = ngram
 	url = https://github.com/wrathematics/ngram
-	shallow = true
-	registered = true
 [submodule "sylcount"]
 	path = sylcount
 	url = https://github.com/cran/sylcount
-	shallow = true
-	registered = true
