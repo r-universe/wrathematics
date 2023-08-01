@@ -8,12 +8,12 @@
 [submodule "float"]
 	path = float
 	url = https://github.com/wrathematics/float
-[submodule "getip"]
-	path = getip
-	url = https://github.com/wrathematics/getip
 [submodule "getPass"]
 	path = getPass
 	url = https://github.com/wrathematics/getpass
+[submodule "getip"]
+	path = getip
+	url = https://github.com/wrathematics/getip
 [submodule "kazaam"]
 	path = kazaam
 	url = https://github.com/cran/kazaam
