@@ -25,4 +25,5 @@
 	url = https://github.com/wrathematics/ngram
 [submodule "sylcount"]
 	path = sylcount
-	url = https://github.com/cran/sylcount
+	url = https://github.com/wrathematics/sylcount
+	subdir = R
